@@ -62,5 +62,5 @@ resources:
           title: Dias úteis de concessao
           description: Dias úteis para concessão considerando quando a documentação completa
     scheme: file
-    title: Insira um título humanamente legível para este recurso.
+    title: concessao_pensao
 title: Concessão de Pensão
