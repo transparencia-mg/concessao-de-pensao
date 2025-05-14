@@ -1,11 +1,11 @@
 {
   "version": "4.16.6",
-  "time": 0.048,
+  "time": 0.049,
   "errors": [],
   "tasks": [
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "description": "Relação de pensões deferidas e o tempo de concessão realizadas pelo IPSEMG.",
         "dialect": {
           "delimiter": ";"
         },
